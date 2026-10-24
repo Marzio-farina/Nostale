@@ -1,1 +1,5 @@
 node_modules/
+# Generated Graphify artifacts
+/graphify-out/
+/.graphify-venv/
+/.graphify/__pycache__/
